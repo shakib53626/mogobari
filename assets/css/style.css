@@ -1817,6 +1817,10 @@ textarea:focus {
 	align-items: center;
 	display: flex;
 }
+.single-slide{
+	max-height: 400px;
+	max-width: 100%;
+}
 .slider-content {
 	position: absolute;
 	padding-left: 58px;
